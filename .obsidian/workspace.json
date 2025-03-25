@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "ebc17cc994ca2159",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e9768d1e2654de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "934cd457ce3e7f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factorizacion LU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Factorizacion LU"
+            }
+          },
+          {
+            "id": "f79484a1da045c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rectas y Planos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rectas y Planos"
+            }
+          },
+          {
+            "id": "7627f4259fc0fcaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Espacios  y subespacios vectoriales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Espacios  y subespacios vectoriales"
+            }
+          },
+          {
+            "id": "f09f1109be357731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Espacio Nulo y Columna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Espacio Nulo y Columna"
+            }
+          },
+          {
+            "id": "0e91b3098dccf574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rango de una matriz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rango de una matriz"
+            }
+          },
+          {
+            "id": "2a004ff2ab55a979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Independencia, Bases y Dimensión.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Independencia, Bases y Dimensión"
+            }
+          },
+          {
+            "id": "1eddcd62aa1a3e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dimensión de subespacios vectoriales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dimensión de subespacios vectoriales"
+            }
+          },
+          {
+            "id": "ef2a136bfdbfcdbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factorizacion LU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Factorizacion LU"
+            }
+          },
+          {
+            "id": "5c9f4f21f6ae9daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra Lineal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algebra Lineal"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "824158310ef4dd1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab6b1afc997d0c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98e3357dd4ddc179",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a0e5739475809e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e32c64d1f8f47106",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bd9d8d746e8d069",
+    "type": "split",
+    "children": [
+      {
+        "id": "baac242450afacc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa51414c1131ea4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Factorizacion LU.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Factorizacion LU"
+            }
+          },
+          {
+            "id": "e20d22cbef8e994b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Factorizacion LU.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Factorizacion LU"
+            }
+          },
+          {
+            "id": "be88a784e503c60a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99d3ba90e006f9da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Factorizacion LU.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Factorizacion LU"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ef2a136bfdbfcdbb",
+  "lastOpenFiles": [
+    "Corte 2.md",
+    "Corte 3.md",
+    "Corte 4.md",
+    "Dimensión de subespacios vectoriales.md",
+    "Espacio Nulo y Columna.md",
+    "Rectas y Planos.md",
+    "Ortogonalidad.md",
+    "Rango de una matriz.md",
+    "Independencia, Bases y Dimensión.md",
+    "Factorizacion LU.md",
+    "Algebra Lineal.md",
+    "Espacios  y subespacios vectoriales.md"
+  ]
+}
