@@ -78,3 +78,4 @@ $$ Ly = b $$ para ***y***, luego
 $$ Ux = y $$
 para ***x***.
 
+**Siguiente tema: [[Rectas y Planos]]**

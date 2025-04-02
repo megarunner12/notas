@@ -38,3 +38,29 @@ con lo que llegamos a que:
 $$ ax + by + cz = ax_0 + by_0 + cz_0 $$
 la parte derecha de la ecuación es constante con lo que podemos reemplazarla por el término d y expresar la ecuación del plano como:
 $$ ax + by + cz = d $$
+
+# Intersección entre Planos y Rectas
+
+Para determinar si una recta y un plano se intersectan en el espacio tridimensional, podemos seguir estos pasos:
+
+- Un **plano** se expresa en la forma general: $Ax + By + Cz + D = 0$ donde A,B,CA, B, C son los coeficientes normales del plano y D es el término independiente.
+    Una **recta** puede expresarse en su forma paramétrica:
+    
+    $$\begin{Bmatrix} x = x_0 + at \\ y = y_0 + bt \\ z = z_0 + ct \end{Bmatrix}$$
+    
+    donde ($x_0$,$y_0$,$z_0$) es un punto de la recta y (a, b, c) es su dirección.
+    
+
+### **Cálculo de la Intersección**
+
+1. Sustituimos las ecuaciones paramétricas de la recta en la ecuación del plano:
+    
+    $$A(x_0 + at) + B(y_0 + bt) + C(z_0 + ct) + D = 0$$
+2. Resolvemos para $t$:
+    
+    $$t = \frac{-Ax_0 - By_0 - Cz_0 - D}{Aa + Bb + Cc}$$
+     Si el denominador es **cero** $(Aa + Bb + Cc = 0)$, la recta es **paralela** al plano.
+        
+     Si el denominador es **distinto de cero**, calculamos $t$ y sustituimos en las ecuaciones de la recta para obtener el punto de intersección.
+
+**Siguiente tema: [[Espacio Nulo y Columna]]**
