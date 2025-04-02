@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factorizacion LU.md",
+                "file": "Factorización LU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factorizacion LU"
+              "title": "Factorización LU"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factorizacion LU.md",
+                "file": "Corte 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factorizacion LU"
+              "title": "Corte 2"
             }
           },
           {
@@ -125,16 +125,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra Lineal.md",
+                "file": "Factorización LU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algebra Lineal"
+              "title": "Factorización LU"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3bd9d8d746e8d069",
@@ -281,19 +281,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef2a136bfdbfcdbb",
+  "active": "934cd457ce3e7f62",
   "lastOpenFiles": [
+    "Rectas y Planos.md",
+    "Factorización LU.md",
     "Corte 2.md",
+    "Algebra Lineal.md",
+    "Independencia, Bases y Dimensión.md",
+    "Espacios  y subespacios vectoriales.md",
+    "Rango de una matriz.md",
     "Corte 3.md",
     "Corte 4.md",
     "Dimensión de subespacios vectoriales.md",
     "Espacio Nulo y Columna.md",
-    "Rectas y Planos.md",
-    "Ortogonalidad.md",
-    "Rango de una matriz.md",
-    "Independencia, Bases y Dimensión.md",
-    "Factorizacion LU.md",
-    "Algebra Lineal.md",
-    "Espacios  y subespacios vectoriales.md"
+    "Ortogonalidad.md"
   ]
 }

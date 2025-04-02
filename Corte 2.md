@@ -1,7 +1,7 @@
 
 
 # Temas Parcial 2
--  [[Factorizacion LU]]
+-  [[Factorización LU]]
 - [[Rectas y Planos]]
 - [[Espacios  y subespacios vectoriales]]
 - [[Espacio Nulo y Columna]]
